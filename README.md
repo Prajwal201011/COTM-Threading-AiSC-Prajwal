@@ -1,5 +1,5 @@
 # QuotesGenerator
-Generate upto 5 Qoutes with just a single click with this app !!
+Generate n number of Qoutes with just a single click with this app !!
 
 
 # Installation
