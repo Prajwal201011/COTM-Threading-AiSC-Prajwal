@@ -1,5 +1,5 @@
 # QuotesGenerator
-Tired of searching for quotes on Google ? Then, try our Qoute Generator to generate n number of Qoutes with just a single click !!
+Tired of searching for quotes on Google ? Then, try our Quote Generator to generate n number of Qoutes with just a single click !!
 
 
 # Installation
