@@ -1,5 +1,5 @@
 # QuotesGenerator
-Generate n number of Qoutes with just a single click with this app !!
+Tired of searching for quotes on Google ? Then, try our Qoute Generator to generate n number of Qoutes with just a single click !!
 
 
 # Installation
@@ -7,7 +7,7 @@ Generate n number of Qoutes with just a single click with this app !!
 git clone https://github.com/Prajwal201011/COTM-Quote-Generator.git
 cd COTM-Quote-Generator
 
-#install requites libraries
+#install required libraries
 pip install -r requirements.txt
 
 python main.py
